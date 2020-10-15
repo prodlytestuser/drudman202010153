@@ -1,0 +1,4 @@
+"Guid","SBQQ__Field__c","SBQQ__FilterFormula__c","SBQQ__FilterType__c","SBQQ__Index__c","SBQQ__Object__c","SBQQ__Operator__c","SBQQ__Rule__c","SBQQ__TestedFormula__c","SBQQ__Value__c"
+1cd6a264-be27-432b-b4c0-d4e22b467b39,Product Code,"#N/A",Value,"#N/A",Quote Line,equals,b869534c-b2bd-4b0a-a2b5-71a2d51faf51,"#N/A",123
+6a8d4962-cbab-4d01-8afe-84e4e13b505d,Product Code,"#N/A",Value,"#N/A",Quote Line,not equals,0291c071-c86a-461e-8d86-e3da16dd3715,"#N/A",abc
+b0b2689a-7e43-418b-92b3-35a0b729b76c,Product Code,"#N/A",Value,"#N/A",Quote Line,equals,2fa6ba57-4a1a-4885-89e4-707063d4b23e,"#N/A",lop
